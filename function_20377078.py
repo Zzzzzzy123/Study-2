@@ -1,1 +1,1 @@
-this is 20377078
+print('My student_id:20377078')
